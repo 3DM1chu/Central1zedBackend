@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Central1zed",
+      "database": "${workspaceFolder:Central1zedCSharp}/Central1zed.db"
+    }
+  ]
+}

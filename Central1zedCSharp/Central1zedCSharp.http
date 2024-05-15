@@ -1,0 +1,6 @@
+@Central1zedCSharp_HostAddress = http://localhost:5222
+
+GET {{Central1zedCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
